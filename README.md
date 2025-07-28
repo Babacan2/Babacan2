@@ -11,7 +11,7 @@
 - 🔭 Currently working on mobile application projects.
 - 🌱 Continuously learning and improving in mobile development, UI/UX, and cross-platform tools.
 - 💬 Feel free to ask me about software development, mobile technologies, or career advice.
-- 📫 Reach me at: **enessbabacan@gmail.com**
+- 📫 Reach me at: **babacannenes@outlook.com**
 
 ---
 
@@ -22,7 +22,6 @@
 
 ---
 
-## 🛠️ Languages and Tools I Use
 
 ## 🛠️ Languages and Tools I Use
 
