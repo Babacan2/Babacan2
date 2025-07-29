@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 
-![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Babacan2&show_icons=true&theme=radical)
+![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Babacan2&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Babacan2&layout=compact&theme=radical)
 
